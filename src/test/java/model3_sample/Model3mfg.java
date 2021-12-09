@@ -6,7 +6,8 @@ public class Model3mfg {
 	@Test
 	public void model3() {
 		System.out.println("model1");
-		System.out.println("model2");
+		System.out.println("model4");
+		System.out.println("tesla");
 
 	}
 
